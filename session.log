@@ -1,0 +1,36 @@
+11/18/21 23:18:20 v1.34.5 @ DESKTOP-MFL55IO, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+detected L1 = 32768 bytes, L2 = 4194304 bytes, CL = 64 bytes
+measured cpu frequency ~= 2588.412980
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/18/21 23:18:20 v1.34.5 @ DESKTOP-MFL55IO, New random seeds: 664395523, 2811326088
+
+11/18/21 23:18:20 v1.34.5 @ DESKTOP-MFL55IO, Processing expression: 
+
+11/18/21 23:19:50 v1.34.5 @ DESKTOP-MFL55IO, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+detected L1 = 32768 bytes, L2 = 4194304 bytes, CL = 64 bytes
+measured cpu frequency ~= 2602.682660
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/18/21 23:19:50 v1.34.5 @ DESKTOP-MFL55IO, New random seeds: 4061909815, 1493625508
+
+11/18/21 23:19:50 v1.34.5 @ DESKTOP-MFL55IO, Processing expression: in.txt
+
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+detected L1 = 32768 bytes, L2 = 4194304 bytes, CL = 64 bytes
+measured cpu frequency ~= 2487.884900
+using 20 random witnesses for Rabin-Miller PRP checks
+
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, New random seeds: 2102615167, 575113300
+
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, Processing expression: factor(1827700881180020961087568768788024747837552898711832066633012170617731396283665548738830421)
+

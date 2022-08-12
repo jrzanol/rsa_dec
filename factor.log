@@ -1,0 +1,92 @@
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, 
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, ****************************
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, Starting factorization of 1827700881180020961087568768788024747837552898711832066633012170617731396283665548738830421
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, using pretesting plan: normal
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, no tune info: using qs/gnfs crossover of 95 digits
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, ****************************
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, rho: x^2 + 3, starting 1000 iterations on C91
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, rho: x^2 + 2, starting 1000 iterations on C91
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, rho: x^2 + 1, starting 1000 iterations on C91
+11/18/21 23:23:21 v1.34.5 @ DESKTOP-MFL55IO, pm1: starting B1 = 150K, B2 = gmp-ecm default on C91
+11/18/21 23:23:22 v1.34.5 @ DESKTOP-MFL55IO, current ECM pretesting depth: 0.00
+11/18/21 23:23:22 v1.34.5 @ DESKTOP-MFL55IO, scheduled 30 curves at B1=2000 toward target pretesting depth of 28.00
+11/18/21 23:23:22 v1.34.5 @ DESKTOP-MFL55IO, Finished 30 curves using Lenstra ECM method on C91 input, B1=2K, B2=gmp-ecm default
+11/18/21 23:23:22 v1.34.5 @ DESKTOP-MFL55IO, current ECM pretesting depth: 15.18
+11/18/21 23:23:22 v1.34.5 @ DESKTOP-MFL55IO, scheduled 74 curves at B1=11000 toward target pretesting depth of 28.00
+11/18/21 23:23:24 v1.34.5 @ DESKTOP-MFL55IO, Finished 74 curves using Lenstra ECM method on C91 input, B1=11K, B2=gmp-ecm default
+11/18/21 23:23:24 v1.34.5 @ DESKTOP-MFL55IO, current ECM pretesting depth: 20.24
+11/18/21 23:23:24 v1.34.5 @ DESKTOP-MFL55IO, scheduled 214 curves at B1=50000 toward target pretesting depth of 28.00
+11/18/21 23:23:47 v1.34.5 @ DESKTOP-MFL55IO, Finished 214 curves using Lenstra ECM method on C91 input, B1=50K, B2=gmp-ecm default
+11/18/21 23:23:47 v1.34.5 @ DESKTOP-MFL55IO, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C91
+11/18/21 23:23:48 v1.34.5 @ DESKTOP-MFL55IO, current ECM pretesting depth: 25.33
+11/18/21 23:23:48 v1.34.5 @ DESKTOP-MFL55IO, scheduled 230 curves at B1=250000 toward target pretesting depth of 28.00
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, Finished 230 curves using Lenstra ECM method on C91 input, B1=250K, B2=gmp-ecm default
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, final ECM pretested depth: 28.01
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, scheduler: switching to sieve method
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, starting SIQS on c91: 1827700881180020961087568768788024747837552898711832066633012170617731396283665548738830421
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, random seeds: 1533540317, 2248106931
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, ==== sieve params ====
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, n = 91 digits, 300 bits
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, factor base: 74160 primes (max prime = 1995061)
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, single large prime cutoff: 239407320 (120 * pmax)
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, double large prime range from 42 to 51 bits
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, double large prime cutoff: 1209058640543075
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, allocating 9 large prime slices of factor base
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, buckets hold 2048 elements
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, using 32k sieve core
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, sieve interval: 16 blocks of size 32768
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, polynomial A has ~ 12 factors
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, using multiplier of 1
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, using SPV correction of 19 bits, starting at offset 31
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, using SSE2 for trial division and x128 sieve scanning
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, using SSE4.1 enabled 32k sieve core
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, using SSE2 for resieving 13-16 bit primes
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, trial factoring cutoff at 96 bits
+11/18/21 23:25:32 v1.34.5 @ DESKTOP-MFL55IO, ==== sieving started (1 thread) ====
+11/18/21 23:51:05 v1.34.5 @ DESKTOP-MFL55IO, trial division touched 38688683 sieve locations out of 606597021696
+11/18/21 23:51:05 v1.34.5 @ DESKTOP-MFL55IO, squfof: 1 failures, 720671 attempts, 9229382 outside range, 3637279 prp, 672462 useful
+11/18/21 23:51:05 v1.34.5 @ DESKTOP-MFL55IO, 74241 relations found: 20247 full + 53994 from 941998 partial, using 578496 polys (1087 A polys)
+11/18/21 23:51:05 v1.34.5 @ DESKTOP-MFL55IO, on average, sieving found 1.66 rels/poly and 627.78 rels/sec
+11/18/21 23:51:05 v1.34.5 @ DESKTOP-MFL55IO, trial division touched 38688683 sieve locations out of 606597021696
+11/18/21 23:51:05 v1.34.5 @ DESKTOP-MFL55IO, ==== post processing stage (msieve-1.38) ====
+11/18/21 23:51:05 v1.34.5 @ DESKTOP-MFL55IO, begin with 962245 relations
+11/18/21 23:51:05 v1.34.5 @ DESKTOP-MFL55IO, reduce to 180860 relations in 10 passes
+11/18/21 23:51:06 v1.34.5 @ DESKTOP-MFL55IO, failed to read relation 58187
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, failed to read relation 165719
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, recovered 180858 relations
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, recovered 155186 polynomials
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, freed 53 duplicate relations
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, attempting to build 74186 cycles
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, found 74186 cycles in 6 passes
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, distribution of cycle lengths:
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO,    length 1 : 20247
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO,    length 2 : 14810
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO,    length 3 : 13109
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO,    length 4 : 9663
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO,    length 5 : 6767
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO,    length 6 : 4208
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO,    length 7 : 2402
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO,    length 9+: 2980
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, largest cycle: 21 relations
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, matrix is 74160 x 74186 (19.0 MB) with weight 4387007 (59.14/col)
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, sparse part has weight 4387007 (59.14/col)
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, filtering completed in 3 passes
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, matrix is 68919 x 68983 (17.9 MB) with weight 4152462 (60.20/col)
+11/18/21 23:51:07 v1.34.5 @ DESKTOP-MFL55IO, sparse part has weight 4152462 (60.20/col)
+11/18/21 23:51:08 v1.34.5 @ DESKTOP-MFL55IO, saving the first 48 matrix rows for later
+11/18/21 23:51:08 v1.34.5 @ DESKTOP-MFL55IO, matrix is 68871 x 68983 (15.8 MB) with weight 3706422 (53.73/col)
+11/18/21 23:51:08 v1.34.5 @ DESKTOP-MFL55IO, sparse part has weight 3450915 (50.03/col)
+11/18/21 23:51:08 v1.34.5 @ DESKTOP-MFL55IO, matrix includes 64 packed rows
+11/18/21 23:51:08 v1.34.5 @ DESKTOP-MFL55IO, using block size 27593 for processor cache size 4096 kB
+11/18/21 23:51:08 v1.34.5 @ DESKTOP-MFL55IO, commencing Lanczos iteration
+11/18/21 23:51:08 v1.34.5 @ DESKTOP-MFL55IO, memory use: 12.5 MB
+11/18/21 23:51:18 v1.34.5 @ DESKTOP-MFL55IO, lanczos halted after 1091 iterations (dim = 68868)
+11/18/21 23:51:18 v1.34.5 @ DESKTOP-MFL55IO, recovered 15 nontrivial dependencies
+11/18/21 23:51:19 v1.34.5 @ DESKTOP-MFL55IO, prp46 = 1371293089587387292180481293784036793076837889
+11/18/21 23:51:19 v1.34.5 @ DESKTOP-MFL55IO, prp46 = 1332830227949273521465367319234277279439624789
+11/18/21 23:51:19 v1.34.5 @ DESKTOP-MFL55IO, Lanczos elapsed time = 13.2860 seconds.
+11/18/21 23:51:19 v1.34.5 @ DESKTOP-MFL55IO, Sqrt elapsed time = 0.6170 seconds.
+11/18/21 23:51:19 v1.34.5 @ DESKTOP-MFL55IO, SIQS elapsed time = 1546.6722 seconds.
+11/18/21 23:51:19 v1.34.5 @ DESKTOP-MFL55IO, 
+11/18/21 23:51:19 v1.34.5 @ DESKTOP-MFL55IO, 
+11/18/21 23:51:19 v1.34.5 @ DESKTOP-MFL55IO, Total factoring time = 1677.1774 seconds

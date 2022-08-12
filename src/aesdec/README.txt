@@ -1,0 +1,1 @@
+Utilizar a versão x86.
